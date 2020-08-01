@@ -1,6 +1,17 @@
 # asus-x556-uak-efi-configuration
 A configuration of the EFI files for my Asus x556uak laptop
 
+# Specs of the Laptop
+Processor - i7-7500u (Kaby Lake)
+
+RAM - 8 gig DDR4
+
+Hard Drive - 256 gig, SSD
+
+Graphics - Intel HD 620 (The NVIDIA drivers will not work beyond macOS High Sierra)
+
+Realtek Audio
+
 
 # What works
 

@@ -35,7 +35,7 @@ Realtek Audio
 While preparing your hackintosh usb, add these files to your efi partition and try booting from the USB stick. This EFI folder is designed to weork for the asus x556uak laptop, (F556U)m but should in general work for other kabylake laptops. The EFI folder comes with clover as well, so there's no need of a manual install. NVIDIA drivers for this laptop are also availbale, should you wish to use them.
 
 
-As I have dealt extensively with the laptop in question, contact me at hackintosh@sumuk.me with your issue in the subject line and I'll be happy to assist you
+As I have dealt extensively with the laptop in question, contact me at sumuk@sumukshashidhar.com with your issue in the subject line and I'll be happy to assist you
 
 
 Happy hackintoshing
